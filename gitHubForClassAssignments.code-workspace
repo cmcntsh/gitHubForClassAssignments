@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "exerPythEdBasDataStructures",
+			"path": "exerPythEdBasDataStructures"
+		},
+		{
+			"name": "exerPythEdBasLibraries",
+			"path": "exerPythEdBasLibraries"
+		},
+		{
+			"name": "exerPythEdBasExecuteCode",
+			"path": "exerPythEdBasExecuteCode"
+		}
+	],
+	"settings": {}
+}

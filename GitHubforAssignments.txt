@@ -1,0 +1,2 @@
+I will use all the methods (if I can figure it out).
+At this point, Jupyter Notebook seems much easier to use than VS Code.
